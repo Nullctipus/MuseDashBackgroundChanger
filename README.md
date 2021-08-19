@@ -5,7 +5,7 @@ Change Background in Muse Dash Levels
 Download files from whereever and place them in `Backgrounds`
 
 ## Extraction
-Start the game with `--Export`
+Start the game with `--Export` (Right click in steam > Properties > Arguments > --Export)
 
 this will create files that can later be edited
 
